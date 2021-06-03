@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------
+
+Oda Numarasi:5
+
+Musterinin Adi-Soyadi:U§ur Kaya
+
+Musterinin email adresi: uukayaaa
+
+Musterinin adresi: TR
+
+Kisi Sayisi:2
+
+Toplam Tutar:300.00TL
+
+Giris Tarihi:13:4:2021
+
+Cikis Tarihi:14:4:2021
